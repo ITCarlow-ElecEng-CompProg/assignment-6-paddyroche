@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506960432 source:f:\paddy yr2\comp prog\ex 6\main.cpp
+	<iostream>
+
+1508768572 source:d:\paddy yr2\comp prog\ex 6\main.cpp
+	<iostream>
+	<cmath>
+
